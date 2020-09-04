@@ -1,0 +1,7 @@
+jupyterlab>=2.0
+plotly
+matplotlib
+wordcloud
+pandas
+wbdata
+bash_kernel

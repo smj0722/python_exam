@@ -1,0 +1,10 @@
+include LICENSE
+include *.md
+include *.txt
+include *.rst
+
+graft tests
+global-exclude *__pycache__
+global-exclude *.pyc
+global-exclude *population.ipynb
+global-exclude plotly_graphs.ipynb

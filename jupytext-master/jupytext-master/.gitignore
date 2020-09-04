@@ -1,0 +1,19 @@
+.idea
+.vscode
+.build
+.cache
+.coverage
+.pytest_cache
+.eggs
+build
+/dist
+venv
+jupytext.egg-info
+future
+*.pyc
+gits*
+.ipynb_checkpoints
+docs/_build
+
+# Will be created by postBuild
+demo/get_started.ipynb

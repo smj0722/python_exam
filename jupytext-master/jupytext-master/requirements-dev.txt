@@ -1,0 +1,14 @@
+flake8
+pytest>=3.6
+pytest-cov
+notebook
+jupyter_client
+nbconvert
+sphinx-gallery<=0.7.0
+setuptools
+toml
+
+# Python 2
+pathlib
+
+#isort>=5.3.0 #Python 3.6 and above
